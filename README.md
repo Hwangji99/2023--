@@ -44,9 +44,13 @@
 
 
    ![코딩4](https://github.com/Hwangji99/2023-Capstone/blob/main/images/coding004.PNG?raw=true)
+   
 
 - 회로도
 
+
+   ![회로도](https://github.com/Hwangji99/2023-Capstone/blob/main/images/cirdia.png?raw=true)
+  
 
 - 앱 개발 과정
 
@@ -55,6 +59,7 @@
   
    
   ![앱화면](https://github.com/Hwangji99/2023-Capstone/blob/main/images/AppScreen.png?raw=true)
+  
 
   
 - 결과물
