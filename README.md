@@ -31,4 +31,37 @@
 - 예상 결과물
   - 간단한 탈부착 형식의 회로도 구성으로 다양한 제품에 사용 가능
   - 생리통이 심한 여성을 위한 마사지기기로 활용 가능
- 
+
+ - 코딩
+
+   ![코딩1](https://github.com/Hwangji99/2023-Capstone/blob/main/images/coding001.PNG?raw=true)
+
+
+   ![코딩2](https://github.com/Hwangji99/2023-Capstone/blob/main/images/coding002.PNG?raw=true)
+
+
+   ![코딩3](https://github.com/Hwangji99/2023-Capstone/blob/main/images/coding003.PNG?raw=true)
+
+
+   ![코딩4](https://github.com/Hwangji99/2023-Capstone/blob/main/images/coding004.PNG?raw=true)
+
+- 회로도
+
+
+- 앱 개발 과정
+
+  ![앱개발과정](https://github.com/Hwangji99/2023-Capstone/blob/main/images/Application.png?raw=true)
+
+  
+   
+  ![앱화면](https://github.com/Hwangji99/2023-Capstone/blob/main/images/AppScreen.png?raw=true)
+
+  
+- 결과물
+
+
+
+https://github.com/user-attachments/assets/838f4df6-c392-47e5-9218-a4b2ef3c01bc
+
+
+  
